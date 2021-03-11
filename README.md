@@ -16,7 +16,7 @@ $ pkg install pip
 $ pip2 install mechanize
 
 
-$ git clone https://github.com/SantriCyber/SBF
+$ git clone https://github.com/ketty237/SBFx
 
 
 $ cd SBF
